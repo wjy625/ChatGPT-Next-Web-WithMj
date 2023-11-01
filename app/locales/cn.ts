@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[设置](/#/settings)页输入正确的访问密码，[设置](https://t.zsxq.com/13AMgcgzN)",
+      "访问密码不正确或为空，请前往[设置](/#/settings)页输入正确的访问密码，[点这里获取访问密码](https://t.zsxq.com/13AMgcgzN)",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
